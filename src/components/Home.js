@@ -5,7 +5,7 @@ import Types from "./Types";
 
 const Home = () => {
     return (
-        <HOME>
+        <HOME id="home-page">
             <TYPED__BRAND>
                 <Types className="typed-line"/>
             </TYPED__BRAND>
