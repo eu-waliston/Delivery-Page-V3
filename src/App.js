@@ -3,6 +3,7 @@ import React from 'react';
 import Menu from './components/Menu';
 import Home from './components/Home';
 import AboutUs from './components/About';
+import ContactUs from './components/Contact';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Menu />
       <Home />
       <AboutUs />
+      <ContactUs />
     </div>
   );
 }
